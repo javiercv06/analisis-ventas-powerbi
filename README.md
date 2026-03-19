@@ -27,3 +27,6 @@ Proyecto de análisis de datos donde se realizó limpieza, transformación y vis
 
 ## 🚀 Resultado
 Se construyó un dashboard interactivo que permite analizar el rendimiento del negocio y apoyar la toma de decisiones.
+
+
+<img width="1161" height="659" alt="image" src="https://github.com/user-attachments/assets/70e971ab-0923-4fe4-8b3f-98d6b3bb4d24" />
